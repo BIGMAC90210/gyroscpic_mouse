@@ -1,12 +1,4 @@
 /*****************************************************************
-headMouse by Martin Millmore based on;
-
-LSM9DS0_Simple.ino
-SFE_LSM9DS0 Library Simple Example Code
-Jim Lindblom @ SparkFun Electronics
-Original Creation Date: February 18, 2014
-https://github.com/sparkfun/LSM9DS0_Breakout
-
 The LSM9DS0 is a versatile 9DOF sensor. It has a built-in
 accelerometer, gyroscope, and magnetometer. Very cool! Plus it
 functions over either SPI or I2C.
